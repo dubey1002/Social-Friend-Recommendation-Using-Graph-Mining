@@ -24,3 +24,14 @@ data contains two columns source and destination eac edge in graph <br>
 <h3>Performance metric for supervised learning:  </h3>
 - Both precision and recall is important so F1 score is good choice
 - Confusion matrix
+
+<h3>Features Used</h3>
+1.Jaccard Index : http://www.statisticshowto.com/jaccard-index/ <br>
+2.Cosine Distance <br>
+3.Ranking Measure : https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.link_analysis.pagerank_alg.pagerank.html<br>
+4.Shortest Path <br>
+5.Adar Index<br>
+6.Kartz Centrality<br>
+7.Is Person Follow back<br>
+8.Hits score<br>
+
